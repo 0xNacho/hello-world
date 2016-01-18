@@ -1,5 +1,5 @@
 # Hello world
-Usually, this file (`README.md`) contains a full description about the files contained in the repository.
+this file (`README.md`) usually contains a full description about the files contained in the repository.
 
 ##Componentes description
 * `website.html`: contains the entire developed website.
