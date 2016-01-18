@@ -1,4 +1,4 @@
-# example-of-repository
+# Hello world
 Usually, this file (`README.md`) contains a full description about the files contained in the repository.
 
 ##Componentes description
